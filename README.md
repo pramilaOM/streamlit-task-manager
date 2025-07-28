@@ -2,6 +2,8 @@
 
 A feature-rich, interactive task manager built using **Streamlit**, perfect for boosting personal productivity and showcasing full-stack Python skills.
 
+---
+
 ### ✨ Features
 
 - 🔐 **User Authentication**: Login/Signup with secure password hashing.
@@ -24,22 +26,28 @@ git clone https://github.com/pramilaOM/streamlit-task-manager.git
 cd streamlit-task-manager
 pip install -r requirements.txt
 streamlit run app.py
+```
 
+---
 
-🌍 Live Demo
-Try the deployed app here 👉 https://app-task-manager-zgos789gzfexxxbhekb9e4.streamlit.app/
+### 🌍 Live Demo
 
-📂 Project Structure
-bash
-Copy
-Edit
+Try the deployed app here 👉 [https://app-task-manager-zgos789gzfexxxbhekb9e4.streamlit.app/](https://app-task-manager-zgos789gzfexxxbhekb9e4.streamlit.app/)
+
+---
+
+### 📂 Project Structure
+
+```
 streamlit-task-manager/
 ├── app.py                 # Main Streamlit App
 ├── task_manager_cli.py    # Optional CLI-based Task Manager
 ├── requirements.txt       # Python dependencies
-└── README.md              # You're reading it!
 
+```
 
-👤 Author
-Pramila – GitHub Profile
+---
 
+### 👤 Author
+
+**Pramila** – [GitHub Profile](https://github.com/pramilaOM)
